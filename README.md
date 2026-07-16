@@ -1,8 +1,8 @@
-<h1 align="center">marco.exe</h1>
+<h1 align="center">hey, im marco</h1>
 
 ## about me 🌐
 
-hey, im marco. im a below average nerd that likes to code for fun, play video games, and listen to music. feel free to contact me whenever you want to, ill make sure to respond as soon as i can.
+im a below average nerd that likes to code for fun, play video games, and listen to music. feel free to contact me whenever you want to, ill make sure to respond as soon as i can.
 
 ## programming languages 🖥️
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
