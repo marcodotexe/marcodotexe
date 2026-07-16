@@ -30,7 +30,7 @@ im a below average nerd that likes to code for fun, play video games, and listen
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=marcodotexe&theme=tokyonight-duo" alt="MyStreak" /></p>
 
 ## projects 🛠️ 
-* [acadsistant](https://github.com/marcodotexe/acadsistant) - feature-heavy academic planner website
+* [acadsistant](https://github.com/marcodotexe/acadsistant) - academic planner website
 * [lockininator](https://github.com/marcodotexe/lockininator) - python program that shames you when you look away from your screen
 
 ## contact me ☎️
