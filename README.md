@@ -1,10 +1,10 @@
 <h1 align="center">hey, im marco</h1>
 
-## about me 🌐
+## about 🌐
 
 im a below average nerd that likes to code for fun, play video games, and listen to music. feel free to contact me whenever you want to, ill make sure to respond as soon as i can.
 
-## programming languages 🖥️
+## languages 🖥️
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
 </a> 
@@ -34,7 +34,7 @@ im a below average nerd that likes to code for fun, play video games, and listen
 * [doomschooler](https://github.com/marcodotexe/doomschooler) - academic doomscrolling website
 * [lockininator](https://github.com/marcodotexe/lockininator) - productivity python program
 
-## contact me ☎️
+## contact ☎️
 
 </a>  <img src="https://github.com/marcodotexe/marcodotexe/blob/main/icons/gmail.png?raw=true" alt="GMail" width="20" height="20"/> `marcosenarillos@gmail.com` </a>
 
