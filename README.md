@@ -31,7 +31,8 @@ im a below average nerd that likes to code for fun, play video games, and listen
 
 ## projects 🛠️ 
 * [acadsistant](https://github.com/marcodotexe/acadsistant) - academic planner website
-* [lockininator](https://github.com/marcodotexe/lockininator) - python program that shames you when you look away from your screen
+* [doomschooler](https://github.com/marcodotexe/doomschooler) - academic doomscrolling website
+* [lockininator](https://github.com/marcodotexe/lockininator) - productivity python program
 
 ## contact me ☎️
 
