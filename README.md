@@ -27,7 +27,7 @@ im a below average nerd that likes to code for fun, play video games, and listen
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=marcodotexe&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ## projects 🛠️ 
 * [acadsistant](https://github.com/marcodotexe/acadsistant) - academic planner website
